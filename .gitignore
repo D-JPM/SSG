@@ -3,3 +3,4 @@
 .env
 Thumbs.db
 __pycache__/
+public/
